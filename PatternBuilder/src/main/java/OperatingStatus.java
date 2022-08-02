@@ -1,0 +1,4 @@
+enum OperatingStatus {
+    ON,
+    OFF
+}
